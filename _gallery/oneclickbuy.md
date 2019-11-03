@@ -6,7 +6,7 @@ caption: 'Η Amazon δίνει την δυνατότητα στους πελάτ
 license_url: 'https://en.wikipedia.org/wiki/1-Click'
 license_text: Courtesy of Wikipedia
 categories:
-  - ecommerce
+  - tools
 tags:
   - Amazon, patent
 ---
