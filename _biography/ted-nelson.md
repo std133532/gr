@@ -2,7 +2,7 @@
 author: std133532
 title: "Ted Nelson"
 image_url: /images/ted-nelson.jpg
-caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
+caption: "Ο Ted Nelson επινόησε τον όρo υπερείμενο(hypertext) καθώς και τον όρο hypermedia(υπερμέσο) κάτι που επέτρεψε τη διασύνδεση αντικειμένων που βρίσκονταν σε απομακρυσμένους δικτυωμένους υπολογιστές."
 categories:
   - biography
   - definition
