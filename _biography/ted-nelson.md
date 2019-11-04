@@ -10,7 +10,7 @@ tags:
   - Ted Nelson
   - Hypertext
   - Project Xanadu
-  - Creative Computing
+  - Andries van Dam 
   - ZigZag (software)
   - Hypertext Editing System (HES)
 gallery:
