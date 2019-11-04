@@ -8,3 +8,4 @@ O Ted Nelson (Theodor Holm Nelson) γεννήθηκε το 1937 στο Σικά�
 Ορισμένα από τα ρητά του είναι τα παρακάτω: 
 - Let me introduce the word 'hypertext' to mean a body of written or pictorial material interconnected in such a complex way that it could not conveniently be presented or represented on paper.
 - The World Wide Web is precisely what we were trying to PREVENT. We long ago foresaw the problems of one-way links, links that break (no guaranteed long-term publishing), no way to publish comments, no version management, no rights management.
+- So, the point was to be able to have a medium that would record all the connections and all the structures and all the thoughts that paper could not. Since the computer could hold any structure in any form, this was the way to go.
