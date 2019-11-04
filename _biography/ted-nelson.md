@@ -19,7 +19,7 @@ gallery:
   - image_url: /images/ted-nelson.jpg
     caption: "Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry"
   - image_url: /images/ted_nelson_hypertext.jpg
-    caption: ""
+    caption: "Ο Ted Nelson παρουσιάζει το συνέδριο της ACM Hypertext 03 στο Nottingham. "
 ---
 
 {% include_relative bio-nelson.md %}
